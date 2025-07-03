@@ -40,6 +40,6 @@
 - [Flaticon](https://flaticon.com) - for the assets
 - [Freepik](https://freepik.com) - for the images
 - [Base Template](https://technext.github.io/wedding/)
-- [Base Template](https://github.com/NgodingSolusi/the-wedding-of-rehan-maulidan)
+- [Base Template from NgodingSolusi](https://github.com/NgodingSolusi/the-wedding-of-rehan-maulidan)
 
 ### NOTE : PLEASE KEEP THE COPYRIGHTS OR CREDITS
