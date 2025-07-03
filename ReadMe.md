@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://imodstyle.github.io/the-wedding/">
+  <a href="https://imodstyle.github.io">
     <img src="images/readme/half%20circle.png" alt="Logo" width="120" height="120">
   </a>
 
@@ -18,7 +18,7 @@
   <p align="center">
     <strong>Donny & Kurnia</strong>
     <br />
-    <a href="https://imodstyle.github.io/the-wedding/">Explore the Invitation ! »</a>
+    <a href="https://imodstyle.github.io">Explore the Invitation ! »</a>
     <br />
     <br />
     <a href="https://github.com/imodstyle">Donny R</a>
