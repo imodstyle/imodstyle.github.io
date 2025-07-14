@@ -18,7 +18,7 @@
   <p align="center">
     <strong>Donny & Kurnia</strong>
     <br />
-    <a href="https://github.com/imodstyle/wedding-donny-kurnia">Explore the Invitation ! »</a>
+    <a href="https://imodstyle.github.io/wedding-donny-kurnia/">Explore the Invitation ! »</a>
     <br />
     <br />
     <a href="https://github.com/imodstyle">Donny R</a>
